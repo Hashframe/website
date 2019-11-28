@@ -18,8 +18,5 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
-<<<<<<< HEAD
 *.sw?
-=======
 *.sw*
->>>>>>> 499ba5fb2059dea60f403b99682dfa41b90df26e
